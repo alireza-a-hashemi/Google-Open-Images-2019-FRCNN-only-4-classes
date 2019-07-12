@@ -1,2 +1,1 @@
-# Google-Open-Images-2019-FRCNN-only-4-classes
-Google Open Images 2019 FRCNN only 4 classes
+﻿Inspired by Faster_RCNN_for_Open_Images_Dataset_Keras-master https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras.
